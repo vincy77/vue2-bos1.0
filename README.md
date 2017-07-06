@@ -1,4 +1,4 @@
-# vue2.0-test2
+# vue2-bos1.0
 
 > A Vue.js project
 
